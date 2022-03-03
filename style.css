@@ -1,0 +1,120 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.part1{
+    background-image: url(./wp2030802-tomato-wallpapers.jpg);
+text-align-last: center;
+padding-top: 120px;
+padding-bottom: 70px;
+
+}
+.images img{
+    margin: 6px;
+    padding: 4px;
+    border: 1px solid yellow;
+}
+.images{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    padding-left: 700px;
+    padding-top: 40px;
+}
+.part1 h1{
+    color: white;
+    font-weight: lighter;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+
+}
+.part1  p{
+    color: white;
+}
+
+.a{
+    padding-top: 40px;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    border: 2px solid green;
+    border-spacing: 1px;
+}
+.pera1{
+    width:70%;
+    padding-left: 15%;
+}
+.part2{
+    text-align: center;
+    padding-top: 30px;
+}
+.headings h1{
+color: red;
+
+}
+.headings p{
+    color: white;
+    
+}
+.part3{
+    background-image: url(./wp9998848-tomato-4k-wallpapers.jpg);
+    display: flex;
+    padding-top: 30px;
+}
+.headings{
+    margin-left: 100px;
+}
+.main{
+    width: 100%;
+    margin-left: 650px;
+
+
+}
+.part4{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding-right: 13px;
+
+}
+.part4 p{
+    width: 50%;
+    padding-top: 83px;
+
+}
+.h1{
+    padding: 75px
+    
+}
+.pera{
+    margin-left: 50%;
+}
+.iqbal{
+    margin-left: 29%;
+
+}
+.click{
+    background-color: red;
+    color: white;
+    width: 150px;
+    height: 35px;
+}
+.part6 img{
+    height: 400px;
+    width: 1519px;
+}
+.part6{
+    padding-top: 30px;
+}
+.copyright{
+    color: rgba(255, 255, 255, 0.507);
+    background-color: black;
+    padding: 22px 0px;
+    text-align: center;
+    margin: 0px;
+    letter-spacing: 3px;
+    font-size:15px;
+    margin-top: 0px;
+    margin-bottom: 30px;
